@@ -3,17 +3,22 @@
     {
       "id": 1,
       "checked": false,
-      "item": "rice"
+      "item": "cola zero"
     },
     {
       "id": 2,
       "checked": false,
-      "item": "chicken"
+      "item": "mayo"
     },
     {
       "id": 3,
       "checked": false,
-      "item": "carrots"
+      "item": "milk"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "butter"
     }
   ]
 }
